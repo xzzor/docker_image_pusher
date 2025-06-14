@@ -1,2 +1,1 @@
-rmohr/activemq:5-alpine
 activemq
